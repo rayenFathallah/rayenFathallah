@@ -14,12 +14,12 @@
 
 <h1 align="center">
   ”Why did the data scientist bring a notebook to the party? To take some mean notes and avoid making statistical errors!”
-  <img src="[https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s]" width="70px"/>
+  <img src="https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s" width="70px"/>
   
 </h1>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A4cHZhYmMwYnpjdDk3MWFleHYzM2J5c3ExdGRxb2pvenhjNmxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif]" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd2NXJ2NW9mMmdkZGF3ZWZ6Zm5xejE2eG50OG13NXVldnVpc3AweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"/>
 </div>
 
 ---
