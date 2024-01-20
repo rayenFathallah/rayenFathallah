@@ -14,7 +14,8 @@
 
 <h1 align="center">
   ”Why did the data scientist bring a notebook to the party? To take some mean notes and avoid making statistical errors!”
-  <img src="https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s" width="70px"/>
+  <img src="[https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s](https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-VHI6svvhu5xuqzyAoM)" width="70px"/>
+  
 </h1>
 
 <div align="center">
