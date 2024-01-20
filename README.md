@@ -19,7 +19,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A4cHZhYmMwYnpjdDk3MWFleHYzM2J5c3ExdGRxb2pvenhjNmxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
