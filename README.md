@@ -14,12 +14,12 @@
 
 <h1 align="center">
   ”Why did the data scientist bring a notebook to the party? To take some mean notes and avoid making statistical errors!”
-  <img src="[https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s](https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-VHI6svvhu5xuqzyAoM)" width="70px"/>
+  <img src="[https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s]" width="70px"/>
   
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A4cHZhYmMwYnpjdDk3MWFleHYzM2J5c3ExdGRxb2pvenhjNmxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A4cHZhYmMwYnpjdDk3MWFleHYzM2J5c3ExdGRxb2pvenhjNmxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)" width="600" height="300"/>
 </div>
 
 ---
@@ -46,8 +46,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg
-" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
 
