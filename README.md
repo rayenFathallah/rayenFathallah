@@ -25,9 +25,9 @@
 ---
 
 ### :man_technologist: About Me :
-:wave: I am a bachelor engineering student in Data science and artificial integlligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
+:wave: I am an AI engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
-- :man_student: I’m currently an undergraduate taking up Bachelor of engineering majoring in data science at the Faculty Of Sciences Of Tunis.
+- :man_student: I’m took my engineering degree majoring in data science at the Faculty Of Sciences Of Tunis.
 
 - :detective: Over the recent years, I have seamlessly transitioned across diverse projects and work environments, immersing myself in various facets of the data field. Recognizing my responsibility to contribute meaningfully to the global community, I actively engaged in numerous open-source initiatives, harnessing my skills to make a substantial impact and deliver value to society.
 
