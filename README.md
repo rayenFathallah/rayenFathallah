@@ -50,9 +50,18 @@
 </div>
 
 
+
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rayenFathallah&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=rayenFathallah&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
+<!-- GitHub Stats -->
+![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayenFathallah&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenFathallah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenFathallah&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Contribution Graph -->
+![Rayen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rayenFathallah&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)
+
