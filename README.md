@@ -33,7 +33,7 @@
 
 - :computer: As a dedicated data analyst and data scientist, I have consistently invested substantial effort to meet the demands of my roles. My commitment to excellence is underscored by an eagerness to engage in continuous learning, recognizing the dynamic nature of the data landscape. I have proactively pursued further knowledge and skill enhancement, attending workshops, obtaining relevant certifications, and staying abreast of the latest advancements in data analytics and data science. This ongoing pursuit of knowledge enables me to not only fulfill the immediate requirements of the job but also to anticipate and adapt to emerging trends, ensuring a sustained high level of proficiency and innovation in my work.
 - :medal_sports: I possess a keen interest in engaging in debates, as I firmly believe that effective communication of analytical results and the ability to articulate compelling arguments are essential attributes for a data analyst or scientist. My dedication to honing these skills is evidenced by my active participation in various regional and national debating competitions within my country. Notably, in 2021, I contributed to a rewarded team in a regional competition
-- :mailbox: How to reach me: rayen.benfathallah@etudiant-fst.utm.tn
+- :mailbox: How to reach me: benfathallahrayen@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
